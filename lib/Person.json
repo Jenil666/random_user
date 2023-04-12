@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Viljami",
+        "last": "Kauppi"
+      },
+      "location": {
+        "street": {
+          "number": 4320,
+          "name": "Myllypuronkatu"
+        },
+        "city": "Hausjärvi",
+        "state": "Pirkanmaa",
+        "country": "Finland",
+        "postcode": 51272,
+        "coordinates": {
+          "latitude": "-29.4979",
+          "longitude": "-31.2027"
+        },
+        "timezone": {
+          "offset": "+9:30",
+          "description": "Adelaide, Darwin"
+        }
+      },
+      "email": "viljami.kauppi@example.com",
+      "login": {
+        "uuid": "f4e66197-5fa7-4475-8bff-e9abf8b6d168",
+        "username": "yellowzebra941",
+        "password": "poiu",
+        "salt": "v7NBqEtb",
+        "md5": "4f05df7ab2eef0d687200c582612d2c9",
+        "sha1": "414be320af2fcd97725c33502e5320ef4a57c451",
+        "sha256": "5dc80291b35d1ead45f77e23804349e6e23b50191f63509e6414ec3574c2d131"
+      },
+      "dob": {
+        "date": "1979-02-11T21:12:08.673Z",
+        "age": 44
+      },
+      "registered": {
+        "date": "2015-03-05T19:40:05.839Z",
+        "age": 8
+      },
+      "phone": "09-563-814",
+      "cell": "045-461-77-86",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA011undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/73.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+      },
+      "nat": "FI"
+    }
+  ],
+  "info": {
+    "seed": "6943616a4cb9805a",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
